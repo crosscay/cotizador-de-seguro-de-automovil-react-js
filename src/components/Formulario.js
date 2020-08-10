@@ -89,6 +89,8 @@ const Formulario = () => {
         const diferencia = obtenerDiferenciaYear(year);
 
         // por cada año hay que restar el 3%
+        resultado -= (( diferencia * 3 ) * resultado) / 100;
+        console.log(resultado);
 
         // Americano 15%
         // Asiatico 5%
