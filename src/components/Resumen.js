@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 import styled from '@emotion/styled';
 import { primeraMayuscula } from '../helper';
 
@@ -13,9 +13,7 @@ const ContenedorResumen = styled.div`
 const Resumen = ({datos}) => {
 
     const { marca, year, plan } = datos;
-    if (marca === '' || year === '' || plan === '') {
-        return null;
-    }
+    if (marca === '' || year === '' || plan === '') return null;
     return (
         <ContenedorResumen>
             <h2>Resumen de Cotización</h2>
