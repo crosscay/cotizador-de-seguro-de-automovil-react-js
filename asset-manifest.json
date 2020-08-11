@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cotizador_de_seguro_de_automovil_react/static/css/main.4cc8a829.chunk.css",
+    "main.js": "/cotizador_de_seguro_de_automovil_react/static/js/main.3a6d5d58.chunk.js",
+    "main.js.map": "/cotizador_de_seguro_de_automovil_react/static/js/main.3a6d5d58.chunk.js.map",
+    "runtime-main.js": "/cotizador_de_seguro_de_automovil_react/static/js/runtime-main.a8260b77.js",
+    "runtime-main.js.map": "/cotizador_de_seguro_de_automovil_react/static/js/runtime-main.a8260b77.js.map",
+    "static/js/2.0fd8c2dd.chunk.js": "/cotizador_de_seguro_de_automovil_react/static/js/2.0fd8c2dd.chunk.js",
+    "static/js/2.0fd8c2dd.chunk.js.map": "/cotizador_de_seguro_de_automovil_react/static/js/2.0fd8c2dd.chunk.js.map",
+    "index.html": "/cotizador_de_seguro_de_automovil_react/index.html",
+    "precache-manifest.72ec12ebd2fcbe42b422c2c0419c0d9f.js": "/cotizador_de_seguro_de_automovil_react/precache-manifest.72ec12ebd2fcbe42b422c2c0419c0d9f.js",
+    "service-worker.js": "/cotizador_de_seguro_de_automovil_react/service-worker.js",
+    "static/css/main.4cc8a829.chunk.css.map": "/cotizador_de_seguro_de_automovil_react/static/css/main.4cc8a829.chunk.css.map",
+    "static/js/2.0fd8c2dd.chunk.js.LICENSE.txt": "/cotizador_de_seguro_de_automovil_react/static/js/2.0fd8c2dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8260b77.js",
+    "static/js/2.0fd8c2dd.chunk.js",
+    "static/css/main.4cc8a829.chunk.css",
+    "static/js/main.3a6d5d58.chunk.js"
+  ]
+}
