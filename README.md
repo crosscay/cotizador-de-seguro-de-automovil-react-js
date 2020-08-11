@@ -1,7 +1,7 @@
 # Cotizador de Seguro de Automovil
 Aplicación web creada en react js para simular la cotizacion de un seguro de automovil.
 
-### [Demostración](https://competent-johnson-b5d80b.netlify.app/)
+### [Demostración](https://crosscay.github.io/cotizador_de_seguro_de_automovil_react/)
 
 ### Sceenshot
 ![cotizador_de_seguro_de_automovil](https://user-images.githubusercontent.com/15184739/89851956-5ef36780-db53-11ea-9627-ec225c432ef6.PNG)
