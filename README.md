@@ -12,7 +12,7 @@ Aplicación web creada en react js para simular la cotizacion de un seguro de au
 Para iniciar el proyecto utilice:
 
 ```bash
-$ git clon https://github.com/crosscay/cotizador_de_seguro_de_automovil_con_react_js.git
+$ git clon https://github.com/crosscay/cotizador_de_seguro_de_automovil_react_js.git
 $ cd cotizador-de-seguro-de-automovil
 # instala las dependencias del proyecto
 $ npm i
